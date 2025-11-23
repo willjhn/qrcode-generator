@@ -1,3 +1,3 @@
 # pages
 
-[qrcode](https://willjhn.github.io/pages)
+[qrcode](https://willjhn.github.io/qrcode-generator)
